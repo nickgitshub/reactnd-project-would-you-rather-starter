@@ -1,0 +1,129 @@
+img {
+	border-radius: 50%;
+}
+
+nav{
+	display: inline-block;
+}
+
+nav a{
+  	padding: .5em;
+}
+
+
+nav img{
+	padding: .5em;
+	width: 2em
+}
+
+.root{
+	display: inline-block;
+	vertical-align: middle;
+	height:100%;
+}
+
+
+.navElements{
+	margin: 0em 1em 0em 1em;
+	display: inline-block;
+
+}
+
+.questionContainer{
+	text-align: center;
+	background: grey;
+	padding: 2em;
+	justify-content: center;
+}
+
+.question-box{
+	width: 15em;
+	border: 1px solid black;
+	margin: 2em;
+	padding: 2em;
+	text-align: center;
+}
+
+.question-box img{
+	width: 10em;
+	text-align: center;
+	
+}
+
+.questionBoxes{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.questionForm{
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	background: grey;
+	padding: 2em;
+	margin: .5em;
+	
+}
+
+.questionForm img{
+	width: 15em;
+
+}
+
+
+.addQuestion{
+	text-align: center;
+	background: grey;
+	padding: 2em;
+	margin: .5em;
+}
+
+.addQuestion input{
+	padding: .4em;
+	margin: 1em;
+	width: 15em;
+}
+
+.leaderboard{
+	text-align: center;
+	background: grey;
+	padding: 2em;
+	margin: .5em;	
+}
+
+
+.leaderboard img{
+	width: 15em;
+}
+
+.leaderBox{
+	border: 1px solid black;
+	margin: 2em;
+	padding: 2em;
+	text-align: center;
+
+}
+
+.poll{
+	text-align: center;
+	background: grey;
+	padding: 2em;
+	margin: .5em;	
+}
+
+.poll img{
+	width: 15em;
+}
+
+.login{
+	text-align: center;
+	background: grey;
+	padding: 2em;
+	margin: .5em;	
+}
+
+
+
